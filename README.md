@@ -1,10 +1,9 @@
-# Zomato_Data_Analysis
+# Adventure_Works_Sales_Analysis
 
-### Dashboard Link : https://drive.google.com/file/d/1cjqixC7u0qECC_GBGQK70ti1lMEAzI1a/view?usp=drive_web
 
 ## Problem Statement
 
-We need to find the best location to open a restaurants in Bangalore where chances of its success is most.
+Company would like to understand the factors, products and other variables which can improve the sales performance.
 
 
 ### Steps followed 
@@ -16,8 +15,8 @@ We need to find the best location to open a restaurants in Bangalore where chanc
 - Step 5 : Created the schema after deselecting the automatic table relationship option.
 - Step 6 : As per the requirement calculated columns created.
 - Step 7 : Calculated measures were created using dax queries. 
-- Step 8 : Visual filters (Slicers) were added, Card Visuals created, Appropriate graphs utilized.
+- Step 8 : Visual filters (Slicers) were added, Company logo attached, Card Visuals created, Appropriate graphs utilized.
 
 # Insights
 
-Used various analysis techniques to get the result based on Price, Dish, Demographic, Customers.
+Used various analysis techniques, Dax queries to see how we can increase sales and revenue.
