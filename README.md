@@ -1,6 +1,6 @@
 # Zomato_Data_Analysis
 
-### Dashboard Link : Zomato_Bangalore_Restaurants.pbix
+### Dashboard Link : https://drive.google.com/file/d/1cjqixC7u0qECC_GBGQK70ti1lMEAzI1a/view?usp=drive_web
 
 ## Problem Statement
 
